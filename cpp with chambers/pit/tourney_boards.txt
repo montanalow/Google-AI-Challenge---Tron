@@ -1,0 +1,11 @@
+[
+BoardFile('./maps/empty-room.txt'),
+BoardFile('./maps/huge-room.txt'),
+BoardFile('./maps/test-board.txt'),
+BoardFile('./maps/test-board2.txt'),
+BoardFile('./maps/toronto.txt'),
+BoardFile('./maps/u.txt'),
+BoardFile('./maps/trix.txt'),
+BoardFile('./maps/quadrant.txt'),
+BoardFile('./maps/ring.txt'),
+]

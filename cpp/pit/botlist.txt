@@ -1,0 +1,6 @@
+# ID, Name, Command
+1,zug zug,./zug_zug
+1,random,java -jar example_bots/RandomBot.jar
+1,chaser,java -jar example_bots/Chaser.jar
+1,run away,java -jar example_bots/Runaway.jar
+1,wall hugger, java -jar example_bots/Wallhugger.jar

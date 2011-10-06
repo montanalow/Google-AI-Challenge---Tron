@@ -1,0 +1,12 @@
+[
+Board(10,10),
+Board(6,6,start="random"),
+Board(15,20),
+Board(8,8,start=((0,0),(7,7))),
+Board(2,4,layout=[
+    ' 1',
+    ' #',
+    ' #',
+    ' 2']),
+BoardFile('sampleboard.txt'),
+]
